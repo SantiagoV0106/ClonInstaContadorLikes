@@ -1,0 +1,108 @@
+
+.frame {
+    border-radius: 2%;
+    width: 310px;
+    height: 470px;
+    box-shadow: 1px 1px 10px rgb(58, 58, 58);
+    position: relative;
+    margin: 70px;
+}
+
+
+.mipost{
+    width: 278px;
+    height: 265px;
+    position: absolute;
+    top: 75px;
+    left: 16px;
+}
+
+.like{
+    width: 21px;
+    position: absolute;
+    top: 355px;
+    left: 16px;
+}
+
+.Cicon{
+    width: 33px;
+    position: absolute;
+    top: 348px;
+    left: 46px;
+    
+}
+.perfil{
+    border-radius: 100%;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 32px;
+    left: 16px;
+
+}
+.share{
+    width: 23px;
+    position: absolute;
+    top: 354px;
+    left: 90px;
+
+}
+.save{
+    width: 21px;
+    position: absolute;
+    top: 354px;
+    left: 277px;
+
+}
+.parriba{
+    width: 15px;
+    position: absolute;
+    top: 40px;
+    left: 277px;
+
+}
+.puntitos{
+    width: 20px;
+    position: absolute;
+    top: 365px;
+    left: 145px;
+
+}
+
+.username{
+    color: rgba(48, 48, 48, 0.8);
+    font-size: 12px;
+    font-family: Helvetica;
+    position: absolute;
+    top: 30px;
+    left: 55px;
+
+}
+.desc{
+    color: rgba(48, 48, 48, 0.8);
+    font-size: 12px;
+    font-family: Helvetica;
+    position: absolute;
+    top: 374px;
+    left: 16px;
+
+}
+.comments{
+    color: rgba(48, 48, 48, 0.253);
+    font-size: 12px;
+    font-family: Helvetica;
+    position: absolute;
+    top: 392px;
+    left: 16px;
+
+}
+.date{
+    color: rgba(48, 48, 48, 0.253);
+    font-size: 9px;
+    font-family: Helvetica;
+    position: absolute;
+    top: 412px;
+    left: 16px;
+
+}
+
